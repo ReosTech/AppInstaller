@@ -7,4 +7,4 @@ Note:
 *  If ```install_tmp``` exists and it has files run ```rm -rf install_tmp``` to delete that directory or create another directory using ```mkdir <YOUR_DIRECTORY_NAME>```
 *  once completed run ```./installer.sh``` after downloading it from this repo to start the installer
 * when asked enter the app you want to install
-* after the installation is completed run ```./clean_ins.sh```  
+* after the installation is completed run ```./clear_ins.sh```  
