@@ -2,9 +2,10 @@
 clear
 echo "starting..."
 sleep 1.5
+apt update && apt upgrade -y
 clear
 echo "installing deendencies..."
-pkg install git -y
+apt install git -y
 clear
 mkdir install_tmp
 cd install_tmp
