@@ -4,7 +4,7 @@ echo "starting..."
 sleep 1.5
 apt update && apt upgrade -y
 clear
-echo "installing deendencies..."
+echo "installing dependencies..."
 apt install git -y
 clear
 mkdir install_tmp
